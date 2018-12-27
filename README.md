@@ -37,3 +37,7 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### vue.config.js详细配置参考
+[参考地址](https://cli.vuejs.org/zh/config/).
